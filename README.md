@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sshchuck
 - 👀 I’m interested in learning linux anything 
-- 🌱 I’m currently learning A+
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning A+, and rasberry pi 
+- 💞️ I’m looking to collaborate on im not sure
+- 📫 How to reach me here
 
 <!---
 sshchuck/sshchuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
